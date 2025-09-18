@@ -25,7 +25,7 @@ It improves efficiency for employees and ensures transparency for consumers.
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 - **Frontend:** Java (JSP), JavaScript, CSS, HTML  
 - **Backend:** Java (Servlets, JSP)  
 - **Database:** MySQL / SQL Server  
